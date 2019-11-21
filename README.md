@@ -3,7 +3,7 @@ Resources of Data Hack Summit 2019
 
 
 - Hyperparameter Tuning using Bayesian Optimization by Abhishek Periwal : 
-https://github.com/abhinokha/MLPy/blob/master/Hyperopt/Hyperparameters%2Btunning%2Bwith%2BHyperopt.ipynb
+https://github.com/abhinokha/MLPy/tree/master/Hyperopt
 
 - Image Captioning using attention models by Souradip Chakraborty & Rajesh Sreedhar Bhat : 
 https://github.com/rajesh-bhat/dhs_summit_2019_image_captioning

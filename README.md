@@ -20,7 +20,7 @@ https://github.com/raghavbali/appliedml_workshop_dhs_av_2019
 - Synthetic Text Data Generation using Recurrent Neural Networks by Raghav Bali :
 https://github.com/raghavbali/handwritten_text_dhs_av_2019
 
-- Video Encoding & Classification using Tensorflow 2.0 by Axelde Rombay : 
+- Video Encoding & Classification using Tensorflow 2.0 by Axel de Romblay : 
 https://github.com/AxeldeRomblay/DHS2019
 
 - Deep Learning for search in E-Commerce by Atul Agarwal, Sonu Sharma : 

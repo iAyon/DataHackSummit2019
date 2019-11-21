@@ -23,6 +23,9 @@ https://github.com/raghavbali/handwritten_text_dhs_av_2019
 - Video Encoding & Classification using Tensorflow 2.0 by Axel de Romblay : 
 https://github.com/AxeldeRomblay/DHS2019
 
+- Content Based Recommender System Using Transfer Learning by Sitaram Tadepalli : 
+https://github.com/thedatastreet/CBRS
+
 - Deep Learning for search in E-Commerce by Atul Agarwal, Sonu Sharma : 
 https://github.com/ercsonusharma/DHS-2019 
 https://towardsdatascience.com/e-commerce-search-re-ranking-as-a-reinforcement-learning-problem-a9d1561edbd0 

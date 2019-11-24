@@ -8,6 +8,9 @@ https://github.com/abhinokha/MLPy/tree/master/Hyperopt
 - Image Captioning using attention models by Souradip Chakraborty & Rajesh Sreedhar Bhat : 
 https://github.com/rajesh-bhat/dhs_summit_2019_image_captioning
 
+- Hacks by Pavel Pleskov :
+https://gitlab.com/ppleskov/datahack-summit-2019
+
 - Hack NLP Session by Sudalai Rajkumar : 
 https://github.com/SudalaiRajkumar/DHS2019_HackSession_NLP
 

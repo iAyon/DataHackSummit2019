@@ -33,7 +33,7 @@ https://github.com/thedatastreet/CBRS
 https://github.com/januverma/Graph-Embeddings-Recommendations-DHS2019
 
 - Deep Learning for search in E-Commerce by Atul Agarwal, Sonu Sharma : 
-https://github.com/ercsonusharma/DHS-2019 
+https://github.com/ercsonusharma/DHS-2019 and 
 https://towardsdatascience.com/e-commerce-search-re-ranking-as-a-reinforcement-learning-problem-a9d1561edbd0 
 
 - Haptic Learning : Inferring Anatomical Features using Deep Networks by Akshay Bahadur : 
@@ -46,7 +46,7 @@ https://github.com/sahil711/DHS-19
 https://github.com/samiranrl/DHS2019_GNN
 
 - Generating Synthetic Images from Textual Description using GANs by Shibsankar Das : 
-https://towardsdatascience.com/generating-synthetic-images-from-textual-description-using-gans-e5963bae0df4
+https://github.com/sanku-lib/text-to-image and https://towardsdatascience.com/generating-synthetic-images-from-textual-description-using-gans-e5963bae0df4
 
 - Workshop on Deep Learning using Keras :
 https://github.com/kushalnavghare/DataHack-Summit-2019/blob/master/Keras_Workshop_Introduction_To_Deep_Learning_start.ipynb

@@ -50,3 +50,7 @@ https://github.com/sanku-lib/text-to-image and https://towardsdatascience.com/ge
 
 - Workshop on Deep Learning using Keras :
 https://github.com/kushalnavghare/DataHack-Summit-2019/blob/master/Keras_Workshop_Introduction_To_Deep_Learning_start.ipynb
+
+- All You Need to Know about Deploying DL Models using Tensorflow Serving :
+https://github.com/ganeshtata/TF-Serving-CNN-example
+
